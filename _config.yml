@@ -22,10 +22,10 @@ urls:
 # Edit these details 
 
 author_logo: profile.png
-author: watrt
-author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
+author: watrt(似水无痕)
+author_bio: 嗨!我是watrt，我喜欢编程，还有玩弄各种电子设备，欢迎你一起来交流。
 author_email: "xb100@qq.com"
-author_location: India
+author_location: 中国
 author_website_url: "https://open6.cn"
 
 author_work_experiences: 
@@ -75,10 +75,10 @@ dribbble_username: johndoe
 flickr_username: johndoe
 
 #for comments using disqus
-disqus_shortname: sujay-kundu  
+disqus_shortname: watrt  
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: watrt
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com

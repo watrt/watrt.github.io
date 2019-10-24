@@ -7,15 +7,15 @@ url: "https://open6.cn" # the base hostname & protocol for your site, e.g. https
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: Blog
+    - text: 博客
       url: /blog
-    - text: Shop
+    - text: 商城
       url : /shop/
-    - text: About Me
+    - text: 关于我
       url: /about/
-    - text: Contact Me
+    - text: 联系我
       url : /contact/
-    - text: Styleguide
+    - text: 格式指南
       url: /styleguide/
     
 

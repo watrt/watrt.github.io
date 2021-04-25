@@ -1,8 +1,8 @@
 ---
 identifier: jekyll-starry-night-3
-name: John Doe Mug
+name: wgui
 price: 10
 image: /assets/img/products/product3.jpg
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+Wgui是一个基于micropython开发环境的纯micrpython代码编码的简单gui，现在还在测试中....

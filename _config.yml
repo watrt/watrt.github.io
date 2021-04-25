@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: 博客
       url: /blog
-    - text: 商城
+    - text: 项目
       url : /shop/
     - text: 关于我
       url: /about/
@@ -29,25 +29,25 @@ author_location: 中国
 author_website_url: "https://open6.cn"
 
 author_work_experiences: 
-            - company_name: Google
+            - company_name: 三特高新技术
               company_logo: google.png
               company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              designation: 后端软件开发
+              description: 开发、运维、支持、服务器维护
               visibility: true
-            - company_name: Microsoft
+            - company_name: 尚东科技
               company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              company_url: https://www.028sd.net
+              designation: 程序设计
+              description: 设计、开发、运营、推广、管理
               visibility: true
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: 专科
                 college_url: wpython
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_degree: 成都电子科技大学
+                description: 计算应用专业
                 visibility: true
 
 author_project_details:

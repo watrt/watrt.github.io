@@ -1,9 +1,9 @@
 title: 我的世界
 subtitle: 欢迎你来到我的世界
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  欢迎你来到我的世界
 
-url: "https://open6.cn" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://www.open6.cn" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -45,34 +45,34 @@ author_work_experiences:
 author_education_details:
               - college_logo: mit.png
                 college_name: MIT
-                college_url: https://mit.org
+                college_url: wpython
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: p2.png
+                project_title: EsPy_cn
+                project_description: 这个是一个micppython开以IDE改进项目。
+                project_url: https://github.com/watrt/EsPy_cn
                 visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
+              - project_thumbnail: p1.png
+                project_title: wpython
+                project_description: 这是一个基于esp32硬件下使用micropython进行开发的项目
+                project_url: https://github.com/watrt/wpython
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: watrt
+github_username:  watrt
+facebook_username: watrt
+linkedin_username: watrt
+behance_username: watrt
+instagram_username: watrt
+medium_username: watrt
+telegram_username: watrt
+dribbble_username: watrt
+flickr_username: watrt
 
 #for comments using disqus
 disqus_shortname: watrt  
@@ -81,7 +81,7 @@ disqus_shortname: watrt
 wakatime_username: watrt
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: watrt@qq.com
 
 # syntax highlighter
 markdown: kramdown

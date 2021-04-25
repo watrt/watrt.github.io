@@ -1,8 +1,8 @@
 ---
 identifier: jekyll-starry-night-2
 name: EsPy_cn
-price: 10
-image: /assets/img/p2.jpg
+price: 0
+image: /assets/img/p2.png
 ---
 
 ### 依赖:
@@ -44,4 +44,3 @@ image: /assets/img/p2.jpg
     time.sleep_ms(500)
     p.high()
 ```
-.

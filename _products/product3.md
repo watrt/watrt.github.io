@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-starry-night-3
 name: wgui
-price: 10
+price: 0
 image: /assets/img/products/product3.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 identifier: john-doe-tshrirt
 name: wpython
-price: 50
+price: 0
 image: /assets/img/products/product1.jpg
 ---
 
